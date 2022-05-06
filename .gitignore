@@ -348,3 +348,10 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+
+################
+# Added Myself #
+################
+[Dd]ebug_Framework
+[Dd]ebug_UnitTest
